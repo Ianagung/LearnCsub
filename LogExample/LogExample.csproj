@@ -7,7 +7,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>LogExample</RootNamespace>
     <AssemblyName>LogExample</AssemblyName>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
